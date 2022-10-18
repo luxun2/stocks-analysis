@@ -22,7 +22,7 @@ Two stocks consistently performed well over the two years, which were ENPH and R
 ###### How do these pros and cons apply to refactoring the original VBA script?
 
 In general refactored code can be updated to be better, both in efficiency and ability. However this can become time consuming, spending time to redecipher other people's code or code you wrote a long time ago.
-You could  end up making the code even more complicated, instead of everything being concise standalone functions they start becoming an amalgamous monolithic function that is difficult to comprehend. 
+You could  end up making the code even more complicated, instead of everything being concise standalone functions they start becoming an amalgamous monolithic functions that are difficult to comprehend. 
 Algorithm efficiency and scope of the project must be carefully balanced when tackling any project. 
 
 The orifinal VBA script perfectly did what we asked in our original mission statement. It is not too large for our two sheets of data sets. However it wouldn't be robust enough for any small changes in the data set 
